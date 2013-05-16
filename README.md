@@ -8,7 +8,9 @@ The aim of the project is to create a lightweight 3D library with a very low lev
 [Examples](http://threejs.org/) — [Documentation](http://threejs.org/docs/) — [Migrating](https://github.com/mrdoob/three.js/wiki/Migration) — [Help](http://stackoverflow.com/questions/tagged/three.js)
 
 
-### Usage ###
+### Support ###
+
+[![Get Support](http://codersclan.net/graphics/getSupport_github.png)](http://codersclan.net/test/step1.php?repo_id=1)
 
 Download the [minified library](http://threejs.org/build/three.min.js) and include it in your html.
 Alternatively see [how to build the library yourself](https://github.com/mrdoob/three.js/wiki/build.py,-or-how-to-generate-a-compressed-Three.js-file).
