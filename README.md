@@ -12,6 +12,8 @@ The aim of the project is to create a lightweight 3D library with a very low lev
 
 [![Get Support](http://codersclan.net/graphics/getSupport_github4.png)](http://codersclan.net/support/step1.php?repo_id=1)
 
+[![Get Support](http://codersclan.net/graphics/getSupport_github4.png)](http://codersclan.net/support/step1.php?repo_id=2)
+
 Download the [minified library](http://threejs.org/build/three.min.js) and include it in your html.
 Alternatively see [how to build the library yourself](https://github.com/mrdoob/three.js/wiki/build.py,-or-how-to-generate-a-compressed-Three.js-file).
 
