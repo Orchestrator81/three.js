@@ -8,9 +8,13 @@ The aim of the project is to create a lightweight 3D library with a very low lev
 [Examples](http://threejs.org/) — [Documentation](http://threejs.org/docs/) — [Migrating](https://github.com/mrdoob/three.js/wiki/Migration) — [Help](http://stackoverflow.com/questions/tagged/three.js)
 
 
-### Support ###
+## Support ##
+
+For personal support click here
 
 [![Get Support](http://codersclan.net/graphics/getSupport_github4.png)](http://codersclan.net/support/step1.php?repo_id=1)
+
+## Support ##
 
 [![Get Support](http://codersclan.net/graphics/getSupport_github4.png)](http://codersclan.net/support/step1.php?repo_id=2)
 
