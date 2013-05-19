@@ -10,11 +10,13 @@ The aim of the project is to create a lightweight 3D library with a very low lev
 
 ## Support ##
 
-For personal support click here
+Personal support is provided by CodersClan.
 
 [![Get Support](http://codersclan.net/graphics/getSupport_github4.png)](http://codersclan.net/support/step1.php?repo_id=1)
 
 ## Support ##
+
+Personal support is provided by CodersClan.
 
 [![Get Support](http://codersclan.net/graphics/getSupport_github4.png)](http://codersclan.net/support/step1.php?repo_id=2)
 
